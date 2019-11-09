@@ -3,7 +3,7 @@ module.exports = {
         "es6": true
     },
     "extends": [
-        "eslint:recommended",
+        'airbnb',
         'prettier',
         'prettier/react'
     ],
